@@ -10,10 +10,8 @@
 
 from ultralytics import YOLO
 
-# Load your trained model
 model = YOLO('/Users/mikeross/Desktop/python files/Fire_project/best.pt')  # Make sure best.pt is in the same folder OR use full path
 
-# Run prediction on webcam (source=0)
 model.predict(
     source=0,       # 0 = default webcam
     imgsz=640,      # image size
