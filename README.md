@@ -96,10 +96,6 @@ The project includes a complete virtual environment (`yolovenv/`) with all requi
 - **Confidence**: 0.6 minimum threshold
 
 
-## License
-
-This project is provided for educational and security research purposes.
-
 ## Contributing
 
 For security research and vulnerability analysis purposes.
